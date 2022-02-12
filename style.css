@@ -1,0 +1,45 @@
+body {
+    background-image: url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+    color: white;
+    margin-top: 2%;
+    font-family:arial, helvetica, sans-serif;
+    font-size:20px;
+}
+textarea {
+    width: 95%;
+    height: 25%;
+}
+
+.bar {
+    width: 95%; 
+    height: 0.9cm;
+}
+
+.selBar {
+    width: 96%; 
+    height: 1cm;
+}
+
+#center {
+    text-align: center;
+    line-height: 75%;
+}
+
+#container {
+    margin-left: 5%;
+}
+
+#submit {
+    background-color: rgb(55,175,101);
+    color: white;
+    width: 96%;
+    height: 50%;
+}
+
+#survey-form {
+    background-color: rgb(40,40,71);
+    width: 35%;
+    height: 105%;
+    margin-left: 33%;
+    border-radius: 0.5%;
+}
